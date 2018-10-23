@@ -36,4 +36,17 @@ export class BasicCalculator implements Calculator {
         return div;
 
     }
+
+    fact(numar) {
+        //
+        var x = undefined;
+    }
+    pow(numar,exponet) {
+        console.log("fact is defined in ExpertCalculator")
+    }
+    sqrt(numar) {
+        console.log("fact is defined in ExpertCalculator")
+    }
+
+
 }
